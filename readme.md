@@ -17,8 +17,8 @@
 
 ### Screenshot
 
-![Vista de escritorio](./assets/desktop.webp)
-![Vista móvil](./assets/mobile.webp)
+![Vista de escritorio](https://i.ibb.co/hVfG9QX/desktop.webp)
+![Vista móvil](https://i.ibb.co/7tn6t7S/mobile.webp)
 
 ## Proyecto
 
