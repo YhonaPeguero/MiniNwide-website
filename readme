@@ -1,7 +1,6 @@
 # MiniNiwde - Pro Valorant Player
 
 ## Tabla de Contenidos
-
 - [MiniNiwde - Pro Valorant Player](#mininiwde---pro-valorant-player)
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [Preview](#preview)
@@ -18,8 +17,8 @@
 
 ### Screenshot
 
-![](./assets/desktop.webp)
-![](./assets/mobile.webp)
+![Vista de escritorio](./assets/desktop.webp)
+![Vista móvil](./assets/mobile.webp)
 
 ## Proyecto
 
@@ -28,27 +27,27 @@ El sitio fue construido con la intención de ser una muestra de desarrollo rápi
 ### Links
 
 - Repositorio: [Solution](https://github.com/YhonaPeguero/MiniNwide-website)
-- Live Site URL: [Live App](https://mininwide-websitecv.netlify.app/)
+- URL del sitio en vivo: [Live App](https://mininwide-websitecv.netlify.app/)
 
 ## Proceso
 
 ### Construido con:
 
 - Mobile-first workflow
-- Responsive Design
+- Diseño Responsivo
 - Flex Layout
-- Html
-- Tailwind
+- HTML
+- Tailwind CSS
 
 ### Recursos Utilizados
 
-- [Tailwind](https://tailwindcss.com/docs/)
+- [Tailwind CSS](https://tailwindcss.com/docs/)
 - [MDN Web Docs](https://developer.mozilla.org/es/docs/Web)
 
 ## Autor
 
 ### Yhonatan Peguero
 
-- Twitter - [@AnoFeed](https://twitter.com/AnoFeed)
-- LinkedIn - [Yhontan Peguero](https://www.linkedin.com/in/yhonatan-peguero/)
-- GitHub - [@YhonaPeguero](https://github.com/YhonaPeguero)
+- Twitter: [@AnoFeed](https://twitter.com/AnoFeed)
+- LinkedIn: [Yhontan Peguero](https://www.linkedin.com/in/yhonatan-peguero/)
+- GitHub: [@YhonaPeguero](https://github.com/YhonaPeguero)
