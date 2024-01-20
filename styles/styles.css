@@ -1,0 +1,25 @@
+.neon-text {
+    color: #ff4655;
+    text-shadow:
+      0 0 5px #ff4655,
+      0 0 10px #ff4655,
+      0 0 20px #ff4655,
+      0 0 40px #ff4655,
+      0 0 80px #ff4655,
+      0 0 120px #ff4655;
+  }
+  .neon-icon {
+    text-shadow:
+      0 0 5px #ff4655,
+      0 0 10px #ff4655,
+      0 0 15px #ff4655,
+      0 0 20px #ff4655;
+  }
+  .link-style {
+    text-decoration: none;
+    color: #76e2fe;
+    transition: color 0.3s;
+  }
+  .link-style:hover {
+    color: #ff4655;
+  }
